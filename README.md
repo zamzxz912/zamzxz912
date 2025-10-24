@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- GIF LEBAR PENUH -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="100%" height="50%" style="border-radius: 12px;"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="50%" style="border-radius: 12px;"/>
 
 <br><br>
 
-<!-- TEKS INTRO AESTHETIC -->
 <blockquote>
   <h3>💭 looking for sumthin'</h3>
   <p><i>literally code everything i see :)</i></p>
