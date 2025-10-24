@@ -1,9 +1,15 @@
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
+<!-- GIF LEBAR PENUH -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="100%" height="50%" style="border-radius: 12px;"/>
+
 <br><br>
 
-looking for sumthin'<br>literally code everything i see :)
+<!-- TEKS INTRO AESTHETIC -->
+<blockquote>
+  <h3>💭 looking for sumthin'</h3>
+  <p><i>literally code everything i see :)</i></p>
+</blockquote>
 
 </div>
 
@@ -15,7 +21,7 @@ looking for sumthin'<br>literally code everything i see :)
 
 ---
 
-## Tech:
+## Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
